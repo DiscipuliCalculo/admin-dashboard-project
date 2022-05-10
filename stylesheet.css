@@ -29,6 +29,11 @@ body, html, h1, h2, h3, h4, h5, h6, p {
   display: grid;
   gap: 10px;
   grid-template-rows: 1fr 1fr 1fr;
+  padding: 1rem 0 1rem 0;
+}
+
+.announce-container > div {
+  margin-left: 2rem;
 }
 
 .project-card {
